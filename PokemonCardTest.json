@@ -1,7 +1,7 @@
 {
 	"object" : "card",
 	"image_uris" : { "Pkmn" : { "Set" : "Nitendo Black Star Promos",
-		  "Name1" : "Kyogre ex" 
+		  "Name1" : "Kyogre ex", 
 		  "1" : "https://pkmncards.com/wp-content/uploads/kyogre-ex-nintendo-black-star-promos-001.jpg",
 		  "Name2" : "Groudon ex",
 		  "2" : "https://pkmncards.com/wp-content/uploads/groudon-ex-nintendo-black-star-promos-002.jpg",
