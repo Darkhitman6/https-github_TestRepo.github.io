@@ -1,0 +1,24 @@
+{
+	"object" : "card",
+	"image_uris" : { "Pkmn" : 
+		{ "Set" : "Nitendo Black Star Promos",
+		  "Name1" : "Kyogre ex" 
+		  "1" : "https://pkmncards.com/wp-content/uploads/kyogre-ex-nintendo-black-star-promos-001.jpg",
+		  "Name2" : "Groudon ex",
+		  "2" : "https://pkmncards.com/wp-content/uploads/groudon-ex-nintendo-black-star-promos-002.jpg",
+		  "Name3" : "Moltres ex",
+		  "3" : "https://pkmncards.com/wp-content/uploads/moltres-ex-nintendo-black-star-promos-031.jpg",
+		  "Name4" : "Articuno ex",
+		  "4" : "https://pkmncards.com/wp-content/uploads/articuno-ex-nintendo-black-star-promos-032.jpg",
+		  "Name5" : "Zapdos ex",
+		  "5" : "https://pkmncards.com/wp-content/uploads/zapdos-ex-nintendo-black-star-promos-033.jpg",
+		  "Name6" : "Kyogre ex (Nintendo Black Star Promos 037)",
+		  "6" : "https://pkmncards.com/wp-content/uploads/kyogre-ex-nintendo-black-star-promos-037.jpg",
+		  "Name7" : "Groudon ex (Nintendo Black Star Promos 038)",
+		  "7" : "https://pkmncards.com/wp-content/uploads/groudon-ex-nintendo-black-star-promos-038.jpg",
+		  "Name8" : "Rayquaza ex (Nintendo Black Star Promos 039)",
+		  "8" : "https://pkmncards.com/wp-content/uploads/rayquaza-ex-nintendo-black-star-promos-039.jpg"
+		 }
+		}
+
+}
